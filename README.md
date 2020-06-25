@@ -11,4 +11,4 @@ https://www.notion.so/wetransfer/Product-Engineering-Career-Framework-b843ab7c7b
 
 # Contributions
 
-This framework is made public primarily to inspire. However, if you discover parts of the framework that you have questions about, feel free to create a Github issue here.
+This framework is made public primarily to inspire. If you discover parts of the framework that you have questions about, feel free to create a Github issue here.
