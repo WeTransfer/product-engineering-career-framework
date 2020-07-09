@@ -6,8 +6,7 @@ Our Product Engineering Career Framework describes roles of increasing seniority
 
 We are making our career framework public to help anyone looking to build their own, or for those who are just curious about how we think about career progression at WeTransfer.
 
-You can find the career framework itself here, on our internal Notion wiki:
-https://www.notion.so/wetransfer/Product-Engineering-Career-Framework-b843ab7c7b574960adc7583d56fd0dad
+[👀 View the WeTransfer Product Engineering Career Framework on our internal Notion wiki](https://www.notion.so/wetransfer/Product-Engineering-Career-Framework-b843ab7c7b574960adc7583d56fd0dad)
 
 # Contributions
 
